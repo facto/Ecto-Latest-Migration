@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Ecto Latest Migration: Open latest Ecto migration",
+        "command": "ecto_latest_migration"
+    }
+]
